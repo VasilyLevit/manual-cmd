@@ -8,3 +8,12 @@ cd C:\Folder1\folder2
 ```sh
 dir
 ```
+Переименование файла
+```sh
+mv  oldname.xxx newname.xxx
+```
+Очистка экрана
+```sh
+cls (win) clear (mac)
+```
+Tab - дописывает команду при отсутствии других вариантов
